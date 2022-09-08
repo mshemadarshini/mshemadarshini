@@ -10,6 +10,10 @@ I've over 16 years experience in Software Engineering, Quality Assurance and Inf
 I'm available to relocate to Australia, Europe, New Zealand USA or any cool climate country :)
 Please feel free to reach me up at anytime via email mshemadarshini@gmail.com 
 
+I'm currently working as Technology Manager for QA & EA departmnet for an Agriculture Technology focused based organization in Malaysia on remote basis for past several years 
+
+However I'm keen for relocate opportunity to Australia, New Zealand, Ireland, UK, USA with job offer letter.
+
 Skills: Python, DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and Node.Js | Angular.JS | React.Js 
 
 
