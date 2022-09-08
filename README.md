@@ -1,7 +1,8 @@
 ### Hi there 👋, Hola Amigo, How are you doing ?
 ### Thanks for checking out my Profile !
 ### I'm Hema, A remote Software Engineer based from Malaysia (Lovely Asian Country)
-![I am GitHub Readme Generator's creator](https://github.com/mshemadarshini/mshemadarshini/blob/main/My%20daughter%20Saaranya%20and%20mE%20.jpg)
+<img src="https://github.com/mshemadarshini/mshemadarshini/blob/main/My%20daughter%20Saaranya%20and%20mE%20.jpg" width="500"/>
+
 
 I'm Software Engineer based in Malaysia and currently working remotely. 
 
