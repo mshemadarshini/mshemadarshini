@@ -15,7 +15,7 @@ Skills: Python, DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and 
 
 - 🔭 I’m currently working on Arduino Micro Controller and finding remedies for Autism  
 - 🌱 I’m currently learning Data Science and Machine Learning 
-- 👯 I’m looking to collaborate on parents that has autism children, or developers that working on solving health medical problem 
+- 👯 I’m looking to collaborate with developers that has interest to resolve medical challenges through technology
 - 💬 Ask me about Python, Ruby on Rails  
 - 📫 How to reach me: mshemadarshini@gmail.com 
 - 😄 Pronouns: Hema 
