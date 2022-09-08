@@ -26,5 +26,5 @@ Skills: Python, DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and 
 - ⚡ Fun fact: i love to swim, traditional dance, and I'm good cook 
 
 
-
+![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshemadarshini&count_private=true)
 
