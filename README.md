@@ -17,7 +17,7 @@ However I'm keen for relocate opportunity to Australia, New Zealand, Ireland, UK
 Skills: Python, DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and Node.Js | Angular.JS | React.Js 
 
 
-- 🔭 I’m currently working on Arduino Micro Controller and finding remedies for Autism  
+- 🔭 I’m currently working on Arduino and upskilling Cloud Technology Certification in AWS, Azure and GCP
 - 🌱 I’m currently learning Data Science and Machine Learning 
 - 👯 I’m looking to collaborate with developers that has interest to resolve medical challenges through technology
 - 💬 Ask me about Python, Ruby on Rails  
