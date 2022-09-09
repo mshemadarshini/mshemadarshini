@@ -3,22 +3,25 @@
 ### I'm Hema Darshini, A remote Software Engineer based from Malaysia (Lovely Asian Country)
 <img src="https://github.com/mshemadarshini/mshemadarshini/blob/main/My%20daughter%20Saaranya%20and%20mE%20.jpg" width="500"/>
 
+I'm Software Engineer based in Malaysia with over 16+ Years successful Profesional Expertise and currently working as Technology Manager for QA & EA departmnet for an Agriculture Technology focused based organization in Malaysia on remote basis for past several years 
+- over 10 years in Software Engineering
+- around 3+ years experience in Quality Assurance 
+- over 3 years in Infrastructure Management 
 
-I'm Software Engineer based in Malaysia and currently working remotely. 
-
-I've over 16 years experience in Software Engineering, Quality Assurance and Infrastructure Management. 
-I'm available to relocate to Australia, Europe, New Zealand USA or any cool climate country :)
 Please feel free to reach me up at anytime via email mshemadarshini@gmail.com 
 
-I'm currently working as Technology Manager for QA & EA departmnet for an Agriculture Technology focused based organization in Malaysia on remote basis for past several years 
-
-However I'm keen for relocate opportunity to Australia, New Zealand, Ireland, UK, USA with job offer letter.
-
-Skills: Python, DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and Node.Js | Angular.JS | React.Js 
+At present I'm keen to looking for remote basis role or an opportunity that offers relocation with a job offer letter to countries such as Ireland, Australia, anywhere Europe, UK, New Zealand, USA or anywhere with chill weather. 
 
 
-- 🔭 I’m currently working on Arduino and upskilling Cloud Technology Certification in AWS, Azure and GCP
-- 🌱 I’m currently learning Data Science and Machine Learning 
+Current Technical Expertise Skills: 
+- Python, DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and Node.Js | Angular.JS | React.Js | AWS | DevOps | Virtualizations | MSSQL | 
+  PostgresSQL | MySQL | etc.
+
+IDE : Anaconda | Pycharm | Sublime | Eclipse | VSCode | and much other. 
+
+
+- 🔭 I’m currently working on Arduino and upskilling certification in Cloud Based Technology i.e. AWS, Azure and GCP
+- 🌱 Beside this, I'm keen to explore new technology and various industry such as healthtech, Agtech, Fintech, Crypto and much more through Maching Learning Algorithm and implementation of Analytic Data Science Techniques
 - 👯 I’m looking to collaborate with developers that has interest to resolve medical challenges through technology
 - 💬 Ask me about Python, Ruby on Rails  
 - 📫 How to reach me: mshemadarshini@gmail.com 
