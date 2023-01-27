@@ -13,8 +13,7 @@ At present I'm keen to looking for remote basis role or an opportunity that offe
 
 
 Current Technical Expertise Skills: 
-- Python, DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and Node.Js | Angular.JS | React.Js | AWS | DevOps | Virtualizations | MSSQL | 
-  PostgresSQL | MySQL | etc.
+- Python, FastAPI,  DJango, Flask  | Ruby and Ruby on Rails | Java | Javascript and Node.Js | Angular.JS | React.Js | AWS | DevOps | Virtualizations | MSSQL | PostgresSQL | MySQL | Redis | RabbitMQ | Terraform | Docker | Ansible | Selenium | Apache Spark | Apache Kafka |  etc.
 
 IDE : Anaconda | Pycharm | Sublime | Eclipse | VSCode | and much other. 
 
